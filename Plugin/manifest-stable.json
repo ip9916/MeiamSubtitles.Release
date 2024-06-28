@@ -6,13 +6,13 @@
     "overview": "",
     "owner": "MeiamSubtitles",
     "category": "Metadata",
-    "imageUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/images/Jellyfin.MeiamSub.Shooter.png",
+    "imageUrl": "https://github.com/91270/MeiamSubtitles.Release/blob/main/Plugin/images/Jellyfin.MeiamSub.Shooter.png",
     "versions": [     
       {
         "version": "1.0.10.0",
         "changelog": "### 适配新版 Jellyfin ###\n",
         "targetAbi": "10.9.2.0",
-        "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.10.0.zip",
+        "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/blob/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.10.0.zip",
         "checksum": "C9893AF4F37AF67D977FD0E8B53F1225",
         "timestamp": "2024-06-06T14:43:43Z"
       }
@@ -25,13 +25,13 @@
     "overview": "",
     "owner": "MeiamSubtitles",
     "category": "Metadata",
-    "imageUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/images/Jellyfin.MeiamSub.Thunder.png",
+    "imageUrl": "https://github.com/91270/MeiamSubtitles.Release/blob/main/Plugin/images/Jellyfin.MeiamSub.Thunder.png",
     "versions": [      
       {
         "version": "1.0.10.0",
         "changelog": "### 适配新版 Jellyfin ###\n",
         "targetAbi": "10.9.2.0",
-        "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.10.0.zip",
+        "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/blob/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.10.0.zip",
         "checksum": "CEE120A1953334FBE0519DAF2706D31D",
         "timestamp": "2024-06-06T14:43:43Z"
       }
